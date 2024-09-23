@@ -31,7 +31,7 @@ git clone https://github.com/taka78/boiler-thermostat.git
 <p>Then restart Home Assistant.</p>
 
 <h2>Configuration</h2>
-<p>Create a file named <code>thermostat_script.py</code> in the <code>boiler-thermostat</code> directory. This script should include the following functions:</p>
+<p>The repo has a file named <code>thermostat_script.py</code> in the <code>boiler-thermostat</code> directory. This script should include the following functions:</p>
 
 <ul>
   <li><code>read_temp()</code>: Reads the temperature from the DS18B20 sensor using a library like DallasTemperature (or your implementation).</li>
