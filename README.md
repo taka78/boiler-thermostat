@@ -54,7 +54,7 @@ git clone https://github.com/taka78/boiler-thermostat.git
 
 <h2>Additional Information</h2>
 <p>The provided hardware list assumes a basic setup for boiler temperature control. Depending on your specific boiler and functionalities, you might need additional components.</p>
-<p>Ensure the required libraries (e.g., <code>DallasTemperature</code> and <code>RPi.GPIO</code>) are installed within the Home Assistant container for the script to function correctly.</p>
+<p>Ensure the required libraries (e.g., <code>RPi.GPIO</code>) are installed within the Home Assistant container for the script to function correctly.</p>
 
 <h2>Contributing</h2>
 <p>Feel free to submit pull requests for improvements or bug fixes.</p>
